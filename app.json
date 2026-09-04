@@ -10,7 +10,8 @@
       "infoPlist": {
         "UIViewControllerBasedStatusBarAppearance": true,
         "ITSAppUsesNonExemptEncryption": false
-      }
+      },
+      "bundleIdentifier": "com.jasonkneen.chat"
     },
     "android": {
       "predictiveBackGestureEnabled": false
